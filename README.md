@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/b3d84499-a30d-4649-abfc-e4599f2594b2)
 
 ## 목차
-- [🔹 NOTAI 를 소개합니다!](#-notai-를-소개합니다-)
+- [🔹 NOTAI 를 소개합니다!](#-🔹-NOTAI-를-소개합니다!-)
 - [👥 팀원 ](#-팀원-)
 - [💼 핵심 기능 ](#-핵심-기능-)
 - [🔗 링크 모음 ](#-링크-모음)
